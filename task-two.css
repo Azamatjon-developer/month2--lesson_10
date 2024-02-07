@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+.container-right img{
+    width: 934px;
+}
+
+
+
+
+
+.container-left-box{
+    width: 712px;
+    height: 797px;
+    border: 2px solid#5C5C5C;
+    margin-top: 124px;
+    margin-left: 136px;
+
+}
+.container-left-box h3{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color:#000;
+    padding-top: 75px;
+
+}
+
+.container-left-box h4{
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 66px;
+    text-align: center;
+    color:#000;
+
+}
+
+.left-form-name{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+
+}
+.left-form-name input{
+    width: 268px;
+    height: 63px;
+    padding: 10px 5px;
+    margin-top: 41px;
+    border:none;
+    border-bottom: 1px solid#5C5C5C;
+
+}
+
+.email_style{
+     width: 562px;
+     padding: 10px;
+     margin-left: 75px  ;
+     border:none;
+     border-bottom:1px solid #5C5C5C;
+     outline: none;
+}
+.check{
+    margin-left: 75px  ;
+    margin-top: 47px;
+
+}
+.btn{
+    width: 562px;
+    height: 75px;
+    background-color:#5C5C5C;
+    color:#fff;
+
+    margin-left: 75px;
+    margin-top: 47px;
+
+}
+
+.container-img img{
+    width: 934px;
+    
+}
