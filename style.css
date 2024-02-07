@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    display: block;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(84, 70, 241);
+    color: white;
+    border-radius: 15px;
+    padding: 15px 20px;
+    text-decoration: none;
+
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin: 50px auto;
+}
