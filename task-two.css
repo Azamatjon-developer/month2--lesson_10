@@ -14,7 +14,8 @@
 
 .box{
     display: flex;
-    justify-content: space-between;
+    gap: 138px;
+
 }
 .container-right img{
     width: 934px;
@@ -75,6 +76,8 @@
      border:none;
      border-bottom:1px solid #5C5C5C;
      outline: none;
+     margin-top: 12px;
+
 }
 .check{
     margin-left: 75px  ;
@@ -86,13 +89,16 @@
     height: 75px;
     background-color:#5C5C5C;
     color:#fff;
-
     margin-left: 75px;
     margin-top: 47px;
 
 }
 
-.container-img img{
-    width: 934px;
+
+.container-right img{
+    width: 320px;
+    height: 610px;
+
+    
     
 }
